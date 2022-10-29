@@ -60,7 +60,7 @@ VIII Таблица Suppliers (ПОСТАВЩИКИ):
 7. Country
 8. Phone
 
-Проверить работу sql запросов по таблицам можно соответственно на сайте https://www.w3schools.com/sql/default.asp
+Проверить работу sql запросов по таблицам можно на сайте https://www.w3schools.com/sql/default.asp
 
 ЗАДАНИЕ:
 
